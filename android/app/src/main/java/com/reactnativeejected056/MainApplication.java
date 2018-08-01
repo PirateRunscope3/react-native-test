@@ -1,4 +1,4 @@
-package com.testproject;
+package com.reactnativeejected056;
 
 import android.app.Application;
 
